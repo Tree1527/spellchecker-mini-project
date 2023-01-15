@@ -1,4 +1,4 @@
-The flow of the code can be summarized as follows:
+# The flow of the code can be summarized as follows:
 
 1. The code first defines several functions such as words(text), known(words), edits1(word), edits2(word), candidates(word), P(word), and correction(word, type)
 2. Next, it creates a global variable word_ct which is a Counter object of all the words in the large text file (big.txt).
